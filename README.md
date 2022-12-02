@@ -6,6 +6,14 @@
 
 ### Structure of the simulation program
 
+> `./data` the folder to save the training results of DRL algorithms.
+>
+> `./logs` the folder to save the log files of training process.
+>
+> `./models` the folder to save the DRL models after training.
+>
+> `./runs` the folder to save the information of training process.
+>
 > `./src/algo` the folder of DRL algorithms.
 > 
 > `./src/common` the folder of basic simulation settings, such as hyper parameters, saving path for models and log files and etc.
