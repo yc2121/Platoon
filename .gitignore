@@ -1,0 +1,11 @@
+*.zip
+*.pyc
+logs/*
+models/*
+runs/*
+data/*
+*/__pycache__
+!logs/.gitkeep
+!models/.gitkeep
+!runs/.gitkeep
+!data/.gitkeep
