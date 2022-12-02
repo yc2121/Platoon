@@ -1,5 +1,0 @@
-此次实验是 base版本
-每个智能体独立的一个网络
-分支：bak
-tensorboard: Dec09_10-28-39_bigtigerxu
-commit：0ee094f0d357dbaa484d1f1fa345b35417c8b5ab
